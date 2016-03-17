@@ -4,9 +4,9 @@
 
 	<!-- 项目坐标 -->
 	<groupId>com</groupId>
-	<artifactId>test_project</artifactId>
+	<artifactId>userfor</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v0.1</version>
 
 	<!-- pom提供的描述性元素 -->
 	<name>test_project Maven Webapp</name>
@@ -14,7 +14,7 @@
 
 	<!-- 打包名称 -->
 	<build>
-	<finalName>test_project</finalName>
+	<finalName>userfor</finalName>
 	<plugins>
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
