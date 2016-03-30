@@ -6,7 +6,7 @@
 	<groupId>com</groupId>
 	<artifactId>userfor</artifactId>
 	<packaging>war</packaging>
-	<version>v2.0</version>
+	<version>v3.0</version>
 
 	<!-- pom提供的描述性元素 -->
 	<name>test_project Maven Webapp</name>
